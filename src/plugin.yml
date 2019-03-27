@@ -1,0 +1,14 @@
+name: CaseOpeningPlugin
+version: 1.0.0
+description: Case Opening Plugin
+author: smourad
+
+main: fr.smourad.MyPlugin.MyPlugin
+
+commands:
+  newBox:
+    description: create a new box for case opening
+    usage: /<command> 
+  newRewards:
+    description: change the rewards table
+    usage: /<command>
